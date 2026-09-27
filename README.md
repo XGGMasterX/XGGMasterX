@@ -1,4 +1,5 @@
 Elegant code is what remains when mathematics has been understood.
+
 I created the FunshiEngine organization and developed FunshiEngine, an open-source game engine built with C++.
 
 
